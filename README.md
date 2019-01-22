@@ -19,4 +19,5 @@ x) Strict --> Endgame Farm + All Currency + All Divination Cards
 or
 
 x) Very Strict --> Endgame Farm (No Low Tier Curreny)
+
 ------------------------------------------------------------------------

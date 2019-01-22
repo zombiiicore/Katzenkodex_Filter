@@ -1,6 +1,6 @@
 # Katzenkodex_Filter
 Custom Lootfilters for "Path of Exile" based on filterblade.xyz
-
+(with austrian-german sound files)
 
 # Installation
 Copy All Files to %USERPROFILE%\Dokumente\My Games\Path of Exile\

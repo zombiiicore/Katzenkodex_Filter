@@ -1,10 +1,14 @@
 # Katzenkodex_Filter
 Custom Lootfilters for "Path of Exile" based on filterblade.xyz
 
+
+
 Installation
 ------------------------------------------------------------------------
 Copy All Files to %USERPROFILE%\Dokumente\My Games\Path of Exile\
 ------------------------------------------------------------------------
+
+
 
 
 Filter Explanation

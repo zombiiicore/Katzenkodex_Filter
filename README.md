@@ -7,12 +7,12 @@ Copy All Files to %USERPROFILE%\Dokumente\My Games\Path of Exile\
 
 
 # Filter Explanation
-x) Leveling --> Show Potential Gear Upgrades/Linked Shit/All Gems
+x) 1_Leveling --> Show Potential Gear Upgrades/Linked Shit/All Gems
 
 In Endgame switch to:
 
-x) Strict --> Endgame Farm + All Currency + All Divination Cards
+x) 2_PreEndgame --> Endgame Farm + All Currency + All Divination Cards
 
 or
 
-x) Very Strict --> Endgame Farm (No Low Tier Curreny)
+x) 3_Endgame --> Endgame Farm (No Low Tier Curreny)

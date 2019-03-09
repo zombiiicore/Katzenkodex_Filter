@@ -3781,7 +3781,7 @@ Show # $s->gems->value $t->2 %TB-Top-Gem
 	SetBorderColor 30 150 180 255        # BORDERCOLOR:	 Gem T1
 	MinimapIcon 2 Yellow Triangle
 	PlayEffect White
-CustomAlertSound "13base.mp3"
+CustomAlertSound "8divine.mp3"
 
 #------------------------------------
 #   [1502] Top Gems

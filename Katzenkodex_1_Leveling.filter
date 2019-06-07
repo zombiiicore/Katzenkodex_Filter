@@ -2831,18 +2831,18 @@ Show # %H2 %C2 $tier->t41 $type->currency
 Show # %RF1 %H2 %C2 $tier->t42 $type->currency
 	Class Currency
 	BaseType "Portal Scroll"
-	SetFontSize 45
-	SetTextColor 170 158 130 220            # TEXTCOLOR:	 Currency Cosmetic 2
+	SetFontSize 36
+	SetTextColor 191 0 255 220              # TEXTCOLOR:	 Currency Cosmetic 2
 	SetBorderColor 30 50 100 255            # BORDERCOLOR:	 Portal
-	SetBackgroundColor 0 0 0 79             # BACKGROUND:	 Neutral T2
+	SetBackgroundColor 0 0 0 255            # BACKGROUND:	 Neutral T2
 
 Show # %RF1 %H2 %C2 $tier->t43 $type->currency
 	Class Currency
 	BaseType "Scroll of Wisdom"
 	SetFontSize 36
-	SetTextColor 170 158 130 220            # TEXTCOLOR:	 Currency Cosmetic 2
+	SetTextColor 255 0 82 220               # TEXTCOLOR:	 Currency Cosmetic 2
 	SetBorderColor 100 50 30 255            # BORDERCOLOR:	 Wisdom
-	SetBackgroundColor 0 0 0 79             # BACKGROUND:	 Neutral T2
+	SetBackgroundColor 0 0 0 255            # BACKGROUND:	 Neutral T2
 
 #===============================================================================================================
 # [[1400]] OVERRIDE AREA 2 - Override the default rare rulesets here

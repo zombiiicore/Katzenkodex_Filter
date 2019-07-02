@@ -1756,7 +1756,7 @@ Show # $type->expl->league
 	SetBorderColor 0 240 190 100
 	PlayEffect White
 	MinimapIcon 2 White Hexagon
-CustomAlertSound "2currency.mp3"
+CustomAlertSound "17fractured.mp3"
 
 #===============================================================================================================
 # [[0800]] Explicit Mod Highlight - League Drops
@@ -4820,7 +4820,7 @@ Show # $tier->t2 $type->currency->fossil
 	SetBackgroundColor 130 214 255 255      # BACKGROUND:	 Currency T2
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
-CustomAlertSound "14fossil.mp3"
+CustomAlertSound "1maybevaluable.mp3"
 
 Show # $tier->t4 $type->currency->fossil
 	Class Currency
